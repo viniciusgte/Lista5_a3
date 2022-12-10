@@ -14,3 +14,5 @@ public class RandomSquareGen {
         return quadrado.remove(gerador.nextInt(quadrado.size())) + 1;
     }
 }
+
+// Fim da Lista 5 - Funções
